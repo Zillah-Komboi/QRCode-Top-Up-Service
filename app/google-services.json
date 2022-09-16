@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658095739228",
+    "project_id": "topup-qr-services",
+    "storage_bucket": "topup-qr-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658095739228:android:5735fec640561b01b83199",
+        "android_client_info": {
+          "package_name": "com.example.topupqrservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658095739228-c1hrh5bpauvvv00f9lvfv0cig630qc05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFjlECdM0Lo2VFuSZhg0V5cHgF8oe9IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658095739228-c1hrh5bpauvvv00f9lvfv0cig630qc05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
